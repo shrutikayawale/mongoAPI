@@ -1,0 +1,6 @@
+{ "_id" : ObjectId("5cdbcb0b52ba6ba2fafd815c"), "prodId" : "5cdbb9a552ba6ba2fafd8155", "storage" : "16GB", "color" : "red", "desc" : "iPhone features a 5.8-inch Super Retina display with HDR and True Tone." }
+{ "_id" : ObjectId("5cdbcb4852ba6ba2fafd815d"), "prodId" : "5cdbb9a552ba6ba2fafd8155", "storage" : "64GB", "color" : "red", "desc" : "iPhone features a 5.8-inch Super Retina display with HDR and True Tone." }
+{ "_id" : ObjectId("5cdbcb5452ba6ba2fafd815e"), "prodId" : "5cdbb9a552ba6ba2fafd8155", "storage" : "128GB", "color" : "red", "desc" : "iPhone features a 5.8-inch Super Retina display with HDR and True Tone." }
+{ "_id" : ObjectId("5cdbcb6352ba6ba2fafd815f"), "prodId" : "5cdbb9a552ba6ba2fafd8155", "storage" : "128GB", "color" : "Gold", "desc" : "iPhone features a 5.8-inch Super Retina display with HDR and True Tone." }
+{ "_id" : ObjectId("5cdbcb7052ba6ba2fafd8160"), "prodId" : "5cdbb9a552ba6ba2fafd8155", "storage" : "64GB", "color" : "Gold", "desc" : "iPhone features a 5.8-inch Super Retina display with HDR and True Tone." }
+{ "_id" : ObjectId("5cdbde7eed426250e230de38"), "prodId" : "5cdbb98352ba6ba2fafd8154", "storage" : "16GB", "color" : "gold", "desc" : "Samsung S8 is water resistant" }
