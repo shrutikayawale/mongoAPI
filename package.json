@@ -8,5 +8,11 @@
     "start": "node server.js"
   },
   "author": "Shrutik@",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "mongo": "^0.1.0",
+    "path": "^0.12.7"
+  }
 }
